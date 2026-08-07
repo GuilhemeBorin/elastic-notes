@@ -1,0 +1,4 @@
+logstash – um pipeline de processamento de eventos
+kibana – uma plataforma de análise e visualização
+beats – uma coleção de agentes de envio de dados para o Elasticsearch ou Logstash
+x-pack – um conjunto de recursos como segurança, monitoramento, alertas, geração de relatórios, etc.
