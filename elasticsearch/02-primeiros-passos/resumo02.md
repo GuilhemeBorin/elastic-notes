@@ -23,6 +23,8 @@ Antes de instalar qualquer coisa, vale entender o contexto do ecossistema, porqu
 
 ### Elasticsearch ou OpenSearch: qual escolher?
 
+<img src ="../assets/elasticsearch-X-opensearch.jpeg">
+
 - As **APIs principais são praticamente idênticas** (mapeamento de campos, indexação, busca, agregações), então dá pra começar aprendendo um e migrar para o outro depois sem grandes problemas, **para o propósito deste curso, a escolha não importa muito**.
 - As diferenças ficam mais evidentes nas **soluções verticais/ecossistema** (observabilidade, segurança, enterprise search, IA): a Elastic oferece soluções mais integradas e "prontas", porém com recursos avançados pagos; o OpenSearch depende mais de plugins e é mais "aberto", mas menos polido.
 - Critérios relevantes na hora de decidir:
