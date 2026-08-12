@@ -79,6 +79,8 @@ Processo equivalente ao do macOS/Linux, com uma ressalva: o unzip nativo do Wind
 
 Esta é uma das aulas mais importantes conceitualmente, define o vocabulário que será usado no resto do curso.
 
+<img src="../assets/Arquitetura básica.jpeg">
+
 | Conceito | Definição |
 |---|---|
 | **Nó (node)** | Uma instância em execução do Elasticsearch (em máquina física, virtual ou container). |

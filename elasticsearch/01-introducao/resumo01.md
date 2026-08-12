@@ -2,7 +2,7 @@
 
 > Resumo contextualizado a partir das transcrições das aulas 01, 02 e 03, unindo os três temas em uma narrativa única: **o que é o Elasticsearch → quais ferramentas o cercam (Elastic Stack) → como tudo isso se encaixa em uma arquitetura real**.
 
-<img src="./assets/ELK.jpeg" width="50%">
+<img src="../assets/ELK.jpeg">
 
 ---
 
